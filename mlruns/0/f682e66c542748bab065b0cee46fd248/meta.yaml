@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Shirlyne/Documents/mlops-chest-cancer-classification/mlruns/0/f682e66c542748bab065b0cee46fd248/artifacts
+end_time: 1751987286720
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f682e66c542748bab065b0cee46fd248
+run_name: intrigued-conch-39
+run_uuid: f682e66c542748bab065b0cee46fd248
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751987286652
+status: 3
+tags: []
+user_id: Shirlyne

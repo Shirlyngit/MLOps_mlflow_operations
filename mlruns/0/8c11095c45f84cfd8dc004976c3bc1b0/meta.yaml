@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Shirlyne/Documents/mlops-chest-cancer-classification/mlruns/0/8c11095c45f84cfd8dc004976c3bc1b0/artifacts
+end_time: 1751985446389
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8c11095c45f84cfd8dc004976c3bc1b0
+run_name: redolent-colt-680
+run_uuid: 8c11095c45f84cfd8dc004976c3bc1b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751985446290
+status: 3
+tags: []
+user_id: Shirlyne

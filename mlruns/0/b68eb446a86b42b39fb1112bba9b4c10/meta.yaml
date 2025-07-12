@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Shirlyne/Documents/mlops-chest-cancer-classification/mlruns/0/b68eb446a86b42b39fb1112bba9b4c10/artifacts
+deleted_time: 1751987957740
+end_time: 1751580433293
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: b68eb446a86b42b39fb1112bba9b4c10
+run_name: adorable-bass-183
+run_uuid: b68eb446a86b42b39fb1112bba9b4c10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751580433123
+status: 3
+tags: []
+user_id: Shirlyne

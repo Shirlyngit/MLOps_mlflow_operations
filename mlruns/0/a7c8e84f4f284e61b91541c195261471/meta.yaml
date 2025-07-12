@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Shirlyne/Documents/mlops-chest-cancer-classification/mlruns/0/a7c8e84f4f284e61b91541c195261471/artifacts
+end_time: 1751985791012
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a7c8e84f4f284e61b91541c195261471
+run_name: handsome-fly-238
+run_uuid: a7c8e84f4f284e61b91541c195261471
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751985790930
+status: 3
+tags: []
+user_id: Shirlyne
